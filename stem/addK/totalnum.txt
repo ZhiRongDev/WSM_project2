@@ -1,0 +1,3 @@
+Retrieved:	48887
+Relevant:	2279
+Rel_ret:	1421
